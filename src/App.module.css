@@ -4,17 +4,3 @@
   display: flex;
   justify-content: center;
 }
-.displayNumbersWrapper {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-}
-.counter {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  width: 50%;
-  height: 300px;
-  margin: 50px;
-}
