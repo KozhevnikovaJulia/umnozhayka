@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/umnozhayka/static/css/main.571a76c0.chunk.css",
-    "main.js": "/umnozhayka/static/js/main.a3d3a956.chunk.js",
-    "main.js.map": "/umnozhayka/static/js/main.a3d3a956.chunk.js.map",
+    "main.css": "/umnozhayka/static/css/main.003e675e.chunk.css",
+    "main.js": "/umnozhayka/static/js/main.15f03062.chunk.js",
+    "main.js.map": "/umnozhayka/static/js/main.15f03062.chunk.js.map",
     "runtime-main.js": "/umnozhayka/static/js/runtime-main.95e4bacd.js",
     "runtime-main.js.map": "/umnozhayka/static/js/runtime-main.95e4bacd.js.map",
-    "static/js/2.f0f39136.chunk.js": "/umnozhayka/static/js/2.f0f39136.chunk.js",
-    "static/js/2.f0f39136.chunk.js.map": "/umnozhayka/static/js/2.f0f39136.chunk.js.map",
+    "static/js/2.469637c9.chunk.js": "/umnozhayka/static/js/2.469637c9.chunk.js",
+    "static/js/2.469637c9.chunk.js.map": "/umnozhayka/static/js/2.469637c9.chunk.js.map",
     "index.html": "/umnozhayka/index.html",
-    "static/css/main.571a76c0.chunk.css.map": "/umnozhayka/static/css/main.571a76c0.chunk.css.map",
-    "static/js/2.f0f39136.chunk.js.LICENSE.txt": "/umnozhayka/static/js/2.f0f39136.chunk.js.LICENSE.txt"
+    "static/css/main.003e675e.chunk.css.map": "/umnozhayka/static/css/main.003e675e.chunk.css.map",
+    "static/js/2.469637c9.chunk.js.LICENSE.txt": "/umnozhayka/static/js/2.469637c9.chunk.js.LICENSE.txt",
+    "static/media/bookPink.0dc08806.png": "/umnozhayka/static/media/bookPink.0dc08806.png",
+    "static/media/clockPink.781534d4.png": "/umnozhayka/static/media/clockPink.781534d4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.95e4bacd.js",
-    "static/js/2.f0f39136.chunk.js",
-    "static/css/main.571a76c0.chunk.css",
-    "static/js/main.a3d3a956.chunk.js"
+    "static/js/2.469637c9.chunk.js",
+    "static/css/main.003e675e.chunk.css",
+    "static/js/main.15f03062.chunk.js"
   ]
 }
