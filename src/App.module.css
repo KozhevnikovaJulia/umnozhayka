@@ -1,6 +1,5 @@
 .App {
   min-width: 100vw;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
+  min-height: 100vh;  
+  background-image: radial-gradient(at center center, #B9F8D3 0%, #FFFBE7C7 100%);
 }

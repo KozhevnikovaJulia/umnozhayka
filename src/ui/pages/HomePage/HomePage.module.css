@@ -1,0 +1,37 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.contentBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width:80%;
+}
+.tableBlock {
+    display: flex;
+    flex-direction: column;
+    background-color:#FFFBE7C7;
+    width: 230px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: #6E6E6E;
+    font-size: 1.2rem;
+    font-weight: 600;
+    transition: all 0.4s;
+    border-radius:20px;
+}
+.tableBlock:hover {
+    transform: translateY(-0.7rem);
+    box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.06);
+  }
+  @media (max-width: 575px) {
+    .contentBlock{
+        justify-content: center
+    }
+  }
